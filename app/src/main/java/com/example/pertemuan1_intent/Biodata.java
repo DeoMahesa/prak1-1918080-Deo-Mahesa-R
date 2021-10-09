@@ -23,6 +23,7 @@ public class Biodata extends AppCompatActivity {
                 (EditText)findViewById(R.id.input_jurusan);
         final EditText angkatan =
                 (EditText)findViewById(R.id.input_angkatan);
+
         final TextView nama_t =
                 (TextView)findViewById(R.id.output_nama);
         final TextView nim_t =
